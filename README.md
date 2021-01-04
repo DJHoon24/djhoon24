@@ -1,5 +1,5 @@
 ### Hey, I'm DongHoon and I'm a first year computer science student at the University of Waterloo.
-### I'm currently working on side projects and trying to expand my horizons and learn new frameworks such as NodeJS and ReactJS
+### I'm currently working on side projects and trying to expand my horizons and learn new frameworks such as React and Node.js
 
 <!--
 **DJHoon24/djhoon24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
