@@ -1,5 +1,3 @@
-### Hey, I'm DongHoon and I'm a third year computer science student at the University of Waterloo.
-
 <!--
 **DJHoon24/djhoon24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
